@@ -7,7 +7,7 @@ A modern, responsive Sushi Restaurant Landing Page built using **HTML5** and **C
 
 ## 📸 Preview
 
-![Project Preview](images/screenshot.png)
+![Project Preview](file:///C:/Users/USer/OneDrive/Desktop/web%20delvelopment/sushi_web/html-css%20project/sushi.html)
 ## 🚀 Features
 
 - ✅ Responsive Navigation Bar
